@@ -1,0 +1,5 @@
+Pour une matrice de coût donné:
+
+
+Le plus court chemin est:
+
